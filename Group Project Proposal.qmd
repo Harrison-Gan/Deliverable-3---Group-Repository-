@@ -1,5 +1,6 @@
 ---
 title: "Group Project Proposal"
+authors: "Allen Cosme, Harrison Gan, Ari Nurhadi, Amir Alnajjar, Matthew Mayer"
 format: html
 toc: true
 editor: visual
