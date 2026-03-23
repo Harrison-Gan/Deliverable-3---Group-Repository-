@@ -1,0 +1,21 @@
+---
+title: "Group Project Proposal"
+format: html
+toc: true
+editor: visual
+
+---
+- Introduction
+    - Problem definition
+    - Research Objectives
+    - Importance of the Topic
+- Literature Review and Hypothesis Development
+- Methods 
+    - Sampling/Data collection
+    - Data wrangling and preparation
+    - Procedure
+    - Sample Characteristics
+    - Measures
+- Analysis and Results
+- Recommendations and Conclusion
+
